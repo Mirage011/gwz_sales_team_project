@@ -1,0 +1,3 @@
+SELECT *
+FROM sales_daily
+SALES_DAILY
