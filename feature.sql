@@ -1,1 +1,3 @@
-This code is in sales_daily branch
+SELECT *
+FROM sales_daily
+SALES_DAILY
