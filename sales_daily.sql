@@ -1,5 +1,8 @@
 This changes is coming from Discount branch
 
-SELECT *
+SELECT 
+date_date
+,category_1
+,sum(purchase_cost)
 FROM sales_daily
-SALES_DAILY
+grouo by category_1 , date_date
